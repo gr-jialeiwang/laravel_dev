@@ -4,6 +4,9 @@ namespace App;
 
 use Illuminate\Foundation\Auth\User as Authenticatable;
 
+/**
+ * test
+ */
 class User extends Authenticatable
 {
     /**
